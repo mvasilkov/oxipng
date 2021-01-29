@@ -5,9 +5,9 @@ const { execFileSync } = require('child_process')
 const { join } = require('path')
 
 const binDir = {
-    darwin: 'oxipng-3.0.1-x86_64-apple-darwin',
-    linux: 'oxipng-3.0.1-x86_64-unknown-linux-musl',
-    win32: 'oxipng-3.0.1-i686-pc-windows-msvc',
+    darwin: 'oxipng-4.0.3-x86_64-apple-darwin',
+    linux: 'oxipng-4.0.3-x86_64-unknown-linux-musl',
+    win32: 'oxipng-4.0.3-x86_64-pc-windows-msvc',
 }
 
 const binFile = {
