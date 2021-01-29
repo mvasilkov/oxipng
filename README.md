@@ -2,7 +2,7 @@
 
 Multithreaded PNG optimizer written in Rust, now available as npm package
 
-Based on [oxipng][oxipng] 3.0.1
+Based on [oxipng][oxipng] 4.0.3
 
 ---
 

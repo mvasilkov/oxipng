@@ -1,6 +1,6 @@
 {
   "name": "oxipng",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Multithreaded PNG optimizer written in Rust, now available as npm package",
   "bin": {
     "oxipng": "cli.js"
